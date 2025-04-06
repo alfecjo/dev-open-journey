@@ -1,38 +1,62 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: Relatório de Bug
+about: Crie um relatório para nos ajudar a melhorar o music-hall
+title: "[BUG] Descreva o problema em poucas palavras"
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## 🐞 Descrição do bug
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Descreva de forma clara e concisa qual é o problema.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+---
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## 🔁 Como reproduzir o bug
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+Passos para reproduzir o comportamento:
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+1. Vá para '...'
+2. Clique em '....'
+3. Role a página até '....'
+4. Veja o erro
 
-**Additional context**
-Add any other context about the problem here.
+---
+
+## ✅ Comportamento esperado
+
+Descreva de forma clara e concisa o que você esperava que acontecesse.
+
+---
+
+## 📸 Capturas de tela
+
+Se aplicável, adicione capturas de tela para ajudar a explicar o problema.
+
+---
+
+## 💻 Ambiente do seu dispositivo
+
+### Desktop:
+
+- Sistema Operacional: [ex: Windows, Linux, macOS]
+- Navegador: [ex: Chrome, Firefox, Safari]
+- Versão: [ex: 22]
+
+### Smartphone:
+
+- Dispositivo: [ex: iPhone 6, Galaxy S21]
+- Sistema Operacional: [ex: iOS 16.4, Android 13]
+- Navegador: [ex: Safari, Chrome]
+- Versão: [ex: 22]
+
+---
+
+## 🧩 Contexto adicional
+
+Adicione qualquer outra informação que ajude a entender o problema.
+
+---
+
+Obrigado por contribuir com o `music-hall`, isso pode ajudar muita gente! 🎶
