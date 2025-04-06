@@ -33,7 +33,17 @@ A cada passo da jornada, sigo um ciclo de trabalho que envolve:
 > Conforme avanço, novas tecnologias e desafios serão incorporados à stack para ampliar o escopo do projeto.
 
 ## 📂 Estrutura do projeto
-dev-open-journey/ ├── backend/ │ └── ... ├── frontend/ │ └── ... ├── docs/ │ └── decisões, arquiteturas e anotações ├── .github/ │ └── workflows e templates de PR/issue └── README.md
+
+dev-open-journey/
+├── backend/ 
+│ └── ...
+├── frontend/ 
+│ └── ... 
+├── docs/ 
+│ └── decisões, arquiteturas e anotações 
+├── .github/ 
+│ └── workflows e templates de PR/issue 
+└── README.md
 
 ## 🧩 Como contribuir?
 
