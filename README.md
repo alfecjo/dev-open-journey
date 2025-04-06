@@ -1,4 +1,4 @@
-# 🚀 dev-open-journey
+# 🚀 dev-open-journey - music-hall
 
 > Uma jornada pública e transparente de evolução como desenvolvedor full stack.
 
