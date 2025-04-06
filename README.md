@@ -34,16 +34,56 @@ A cada passo da jornada, sigo um ciclo de trabalho que envolve:
 
 ## 📂 Estrutura do projeto
 
-dev-open-journey/
-├── backend/ 
-│ └── ...
-├── frontend/ 
-│ └── ... 
-├── docs/ 
-│ └── decisões, arquiteturas e anotações 
-├── .github/ 
-│ └── workflows e templates de PR/issue 
+# Estrutura do Projeto
+
+```bash
+music-hall/
+├── backend/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── musichall/
+│   │   │   │           └── ...
+│   │   │   ├── resources/
+│   │   │   │   ├── application.yaml
+│   │   │   │   └── ...
+│   │   │   └── webapp/
+│   │   └── test/
+│   │       └── ...
+│   ├── Dockerfile
+│   ├── pom.xml
+│   └── ...
+├── frontend/
+│   ├── src/
+│   │   ├── app/
+│   │   │   └── ...
+│   │   ├── assets/
+│   │   │   └── ...
+│   │   ├── environments/
+│   │   │   └── ...
+│   │   └── index.html
+│   ├── Dockerfile
+│   ├── angular.json
+│   └── package.json
+├── database/
+│   ├── init.sql
+│   └── Dockerfile
+├── k8s/
+│   ├── backend-deployment.yaml
+│   ├── frontend-deployment.yaml
+│   ├── database-deployment.yaml
+│   ├── backend-service.yaml
+│   ├── frontend-service.yaml
+│   ├── database-service.yaml
+│   └── ...
+├── docs/
+│   └── decisões, arquiteturas e anotações
+├── .github/
+│   └── workflows/
+│       └── templates de PR/issue
 └── README.md
+```
 
 ## 🧩 Como contribuir?
 
