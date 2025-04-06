@@ -1,52 +1,28 @@
-## 🎯 Descrição da Issue
+# Descrição
 
-Descreva de forma clara e objetiva qual é o problema, tarefa ou funcionalidade que deve ser desenvolvida.
+Por favor, inclua um resumo das mudanças e a motivação por trás delas. Liste também as questões resolvidas por este PR.
 
----
+Fixes #
 
-## ✅ Critérios de Aceitação
+## Tipo de Mudança
 
-- [ ] Especificar os requisitos que devem ser atendidos
-- [ ] A funcionalidade está testada e funcionando corretamente
-- [ ] A documentação (quando necessária) foi atualizada
-- [ ] O PR relacionado está vinculado a esta issue
+- [ ] Bugfix
+- [ ] Nova funcionalidade
+- [ ] Alteração de funcionalidade existente
+- [ ] Documentação
 
----
+## Como Testar
 
-## 🔍 Contexto Adicional (opcional)
+Por favor, descreva as etapas necessárias para testar suas mudanças.
 
-Se necessário, inclua prints, diagramas ou links úteis para contextualizar melhor a tarefa.
+## Screenshots (se aplicável)
 
----
+## Checklist:
 
-## 👨‍💻 Responsável
-
-> Atribuído para: `@seu-usuario`
-
----
-
-## 🔗 Pull Request
-
-Link do PR relacionado: <!-- Substitua com o link quando estiver disponível -->
-
----
-
-### 📌 Tipo da Issue
-
-Marque o que se aplica:
-
-- [ ] 🐛 Bug
-- [ ] ✨ Nova funcionalidade
-- [ ] 🔧 Refatoração
-- [ ] 🧪 Teste
-- [ ] 📝 Documentação
-- [ ] 📦 Dependência / Build
-- [ ] 📁 Organização do Projeto
-
----
-
-### ⏱️ Prioridade
-
-- [ ] Alta
-- [ ] Média
-- [ ] Baixa
+- [ ] Meu código segue o estilo de código deste projeto
+- [ ] Eu fiz uma auto-revisão do meu próprio código
+- [ ] Eu comentei meu código, especialmente em áreas difíceis de entender
+- [ ] Eu fiz as alterações correspondentes na documentação
+- [ ] Minhas mudanças não geram novos warnings
+- [ ] Eu adicionei testes que provam que minha correção é eficaz ou que minha funcionalidade funciona
+- [ ] Os testes existentes passaram com minhas alterações
