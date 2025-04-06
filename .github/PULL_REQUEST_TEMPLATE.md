@@ -1,12 +1,3 @@
----
-name: Pull Request
-about: Describe your Pull Request here.
-title: "[SUJES]"
-labels: ''
-assignees: ''
-
----
-
 # Descrição
 
 Por favor, inclua um resumo das mudanças e a motivação por trás delas. Liste também as questões resolvidas por este PR.
