@@ -107,6 +107,30 @@ Abaixo estão listadas algumas tarefas públicas deste projeto. Qualquer pessoa 
 
 🔗 Veja todas as *issues* abertas: [https://github.com/alfecjo/dev-open-journey/issues](https://github.com/alfecjo/dev-open-journey/issues)
 
+## 🧭 Visão Profissional e Aplicação Real
+
+O projeto **dev-open-journey** é mais do que um simples repositório de código: ele simula, de forma prática e organizada, o **ambiente de desenvolvimento de uma empresa real**. Ao aplicar fluxos reais de versionamento, criação de _issues_, desenvolvimento por _pull requests_ e documentação contínua, estou me preparando para atuar de forma eficaz e colaborativa no mercado de trabalho.
+
+### Por que isso é relevante para empresas?
+
+- ✅ Demonstra **entendimento de ciclo de vida de software** — da ideia à entrega.
+- ✅ Apresenta **soft skills** na prática: comunicação, organização e documentação.
+- ✅ Reflete o uso de **boas práticas** como versionamento semântico, padronização de código e uso de _issues_.
+- ✅ Cria uma base sólida de **trabalho assíncrono e transparente**, essencial em times distribuídos e remotos.
+
+### Posicionamento do projeto
+
+Este repositório está em formato de **espelho pessoal e público**:
+- Serve como **vitrine do meu processo de evolução** como desenvolvedor full stack.
+- Não é um projeto de contribuição coletiva aberto, mas **aceita sugestões e forks**.
+- Funciona como **laboratório de testes reais**, onde novas práticas e tecnologias são aplicadas conforme a jornada evolui.
+
+> 🧠 **Nota importante:** Mesmo que este projeto não sincronize automaticamente _issues_ com projetos originais que eventualmente eu tenha _forkado_, todas as decisões e tarefas são geradas intencionalmente e documentadas com clareza. Isso reforça a autonomia do repositório como um projeto real de aprendizado profissional.
+
+---
+
+🛤️ **Resumo**: ao construir e manter este projeto como um "espelho profissional", estou treinando para atuar em times reais, com problemas reais — e principalmente, com disciplina, clareza e melhoria contínua.
+
 
 ## 📫 Contato
 
