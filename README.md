@@ -101,7 +101,7 @@ Abaixo estão listadas algumas tarefas públicas deste projeto. Qualquer pessoa 
 
 | Tipo      | Título da issue                                      | Status | Link |
 |-----------|------------------------------------------------------|--------|------|
-| 🐛 Bug     | Corrigir erro na autenticação via OAuth              | Aberta | [#3](https://github.com/alfecjo/dev-open-journey/issues/3) |
+| 🐛 Bug     | Corrigir erro na autenticação via OAuth              | Aberta | [#3](https://github.com/alfecjo/dev-open-journey/issues/1) |
 | ✨ Feature | Criar player de áudio com controles básicos          | Aberta | [#4](https://github.com/alfecjo/dev-open-journey/issues/4) |
 | ⚙️ Técnica | Refatorar estrutura de serviços                      | Aberta | [#5](https://github.com/alfecjo/dev-open-journey/issues/5) |
 
