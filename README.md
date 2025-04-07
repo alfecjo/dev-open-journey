@@ -95,6 +95,19 @@ Por enquanto, este repositório é uma vitrine pessoal e laboratório de aprendi
 
 ---
 
+## 🧠 Tarefas em aberto (Issues)
+
+Abaixo estão listadas algumas tarefas públicas deste projeto. Qualquer pessoa pode acompanhá-las, estudá-las ou até resolvê-las por conta própria e propor melhorias via *Pull Request*.
+
+| Tipo      | Título da issue                                      | Status | Link |
+|-----------|------------------------------------------------------|--------|------|
+| 🐛 Bug     | Corrigir erro na autenticação via OAuth              | Aberta | [#3](https://github.com/alfecjo/dev-open-journey/issues/3) |
+| ✨ Feature | Criar player de áudio com controles básicos          | Aberta | [#4](https://github.com/alfecjo/dev-open-journey/issues/4) |
+| ⚙️ Técnica | Refatorar estrutura de serviços                      | Aberta | [#5](https://github.com/alfecjo/dev-open-journey/issues/5) |
+
+🔗 Veja todas as *issues* abertas: [https://github.com/alfecjo/dev-open-journey/issues](https://github.com/alfecjo/dev-open-journey/issues)
+
+
 ## 📫 Contato
 
 Me acompanhe e fique à vontade para trocar ideias:
